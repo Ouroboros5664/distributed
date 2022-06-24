@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NWordCount">
+    <output-path>$PROJECT_DIR$/out/artifacts/NWordCount</output-path>
+    <root id="archive" name="NWordCount.jar">
+      <element id="module-output" name="wordcount" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

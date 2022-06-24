@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="swordCount">
+    <output-path>$PROJECT_DIR$/out/artifacts/swordCount</output-path>
+    <root id="archive" name="swordCount.jar">
+      <element id="module-output" name="wordcount_squeeze" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sgzipwordcount">
+    <output-path>$PROJECT_DIR$/out/artifacts/sgzipwordcount</output-path>
+    <root id="archive" name="sgzipwordcount.jar">
+      <element id="module-output" name="wordcount_squeeze" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
